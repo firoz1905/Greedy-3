@@ -1,0 +1,4 @@
+Approach 1 :Sort in descending order based on their heights and when the heights are equal then go with the lesser/min k value which is sort k value by ascending order.
+Inution : First find out the max height in the Array and second max height and so..on. K value can considered as index (Position) while constructing the Queue.
+Time Complexity :O(nlogn
+Space Complexity :
